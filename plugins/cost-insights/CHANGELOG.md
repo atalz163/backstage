@@ -1,5 +1,13 @@
 # @backstage/plugin-cost-insights
 
+## 0.11.30-next.1
+
+### Patch Changes
+
+- daf4b33e34: Add name property to Group
+- Updated dependencies
+  - @backstage/plugin-cost-insights-common@0.1.1-next.0
+
 ## 0.11.30-next.0
 
 ### Patch Changes

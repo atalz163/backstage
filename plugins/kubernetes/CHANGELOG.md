@@ -1,5 +1,11 @@
 # @backstage/plugin-kubernetes
 
+## 0.7.1-next.2
+
+### Patch Changes
+
+- f563b86a5b: Adds namespace column to Kubernetes error reporting table
+
 ## 0.7.1-next.1
 
 ### Patch Changes

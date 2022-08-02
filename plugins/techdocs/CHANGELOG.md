@@ -1,5 +1,11 @@
 # @backstage/plugin-techdocs
 
+## 1.3.1-next.2
+
+### Patch Changes
+
+- 8acb22205c: Scroll techdocs navigation into focus and expand any nested navigation items.
+
 ## 1.3.1-next.1
 
 ### Patch Changes
